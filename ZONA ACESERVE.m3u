@@ -1,6 +1,6 @@
 {"name": "ZONA ACESERVE",
 "author": "SuperVectar",
-"url": "",
+"url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACESERVE/refs/heads/main/ZONA%20ACESERVE.m3u",
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "telegram": "",
 "groups": [
@@ -23,4 +23,8 @@
 
 {"name": "DEPORTES ACESERVE NEW ERA (VPN 1.1.1.1 WARP) En prueba",
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
-"url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_iptv.m3u"}]}
+"url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_iptv.m3u"},
+
+{"name": "TV ACESERVE (VPN 1.1.1.1 WARP) En prueba",
+"image": "https://i.ibb.co/chjnQWhN/aceserve.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listaaACESERVEtv/refs/heads/main/lista%20SUPERVECTAR%20ACESERVER%20TV.m3u"}]}
