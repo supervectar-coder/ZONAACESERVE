@@ -1,9 +1,13 @@
 {"name": "ZONA ACESERVE",
 "author": "SuperVectar",
-"url": "https://raw.githubusercontent.com/supervectar-coder/ZONAACESERVE/refs/heads/main/ZONA%20ACESERVE.m3u",
+"url": "",
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "telegram": "",
 "groups": [
+
+{"name": "NECESITA ACESERVE INSTALADO Y EJECUTANDOSE",
+"image": "https://i.ibb.co/HT5Jhcfw/info.jpg",
+"url": "https://drive.google.com/file/d/1pjktHwjQ6RWaBJQfj0iy-gPomJtygofk/view"},
 
 {"name": "DEPORTES ACESERVE ELCANO (VPN 1.1.1.1 WARP) En prueba",
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
@@ -20,5 +24,3 @@
 {"name": "DEPORTES ACESERVE NEW ERA (VPN 1.1.1.1 WARP) En prueba",
 "image": "https://i.ibb.co/chjnQWhN/aceserve.png",
 "url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_iptv.m3u"}]}
-
-
